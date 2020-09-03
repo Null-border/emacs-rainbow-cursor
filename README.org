@@ -1,0 +1,3 @@
+* README
+* rainbow cursor
+make your cursor change color continuously. 
